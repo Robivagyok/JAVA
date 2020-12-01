@@ -27,7 +27,7 @@ public class SorbaRendezes {
         
         //tömb feltöltése - elemek random értéket kapnak
         for (int i = 0; i < elemSzam; i++) {
-            szamok[i]=(int)(Math.random()*100)-50;
+            szamok[i]=(int)(Math.random()*50)-50;
         }
         
         //tömb kiíratása
