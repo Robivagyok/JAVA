@@ -30,7 +30,8 @@ public class Menu {
 
  */
     public static void main(String[] args) {
-        System.out.println("MENÜ \n113C KR\n");
+        System.out.println("\n MENÜ");
+        System.out.println("\n Készítette: Köbli Róbert")
 
         int szamok[] = new int[20];
 
