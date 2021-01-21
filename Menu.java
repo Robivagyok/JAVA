@@ -30,7 +30,7 @@ public class Menu {
 
  */
     public static void main(String[] args) {
-        System.out.println("MENÜ \n113C AB\n");
+        System.out.println("MENÜ \n113C KR\n");
 
         int szamok[] = new int[20];
 
